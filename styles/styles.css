@@ -79,7 +79,19 @@ h2 {
 .kaart {
   display: block;
   margin: 0 auto;
-  margin-top: 120px;
+  margin-top: 110px;
+}
+.roze {
+  color: #f24982;
+}
+.paars {
+  color: #9b31af;
+}
+.oranje {
+  color: #e3683c;
+}
+.blauwgroen {
+  color: #0da38a;
 }
 @media (max-width: 700px) {
   h1 {
