@@ -67,6 +67,12 @@ h2 {
   color: var(--fourth-color);
   font-size: 18px;
   line-height: 27px;
+  transition: all 100ms ease-in-out;
+}
+
+.btn-branding-outline:hover {
+  color: white;
+  background-color: var(--fourth-color);
 }
 
 .project-description {
